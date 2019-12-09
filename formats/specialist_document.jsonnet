@@ -20,6 +20,7 @@
     "service_standard_report",
     "statutory_instrument",
     "tax_tribunal_decision",
+    "traffic_commissioner_regulatory_decision",
     "utaac_decision",
   ],
   definitions: (import "shared/definitions/_specialist_document.jsonnet") + {
